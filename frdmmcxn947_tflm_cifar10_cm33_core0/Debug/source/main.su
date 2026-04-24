@@ -1,0 +1,5 @@
+../source/main.cpp:24:13:void UART_ReadExact(uint8_t*, uint32_t)	24	static
+../source/main.cpp:32:17:uint32_t checksum_sum_u8(const uint8_t*, uint32_t)	24	static
+../source/main.cpp:42:17:uint32_t read_u32_le()	16	static
+../source/main.cpp:52:17:uint16_t read_u16_le()	16	static
+../source/main.cpp:59:5:int main()	2648	static

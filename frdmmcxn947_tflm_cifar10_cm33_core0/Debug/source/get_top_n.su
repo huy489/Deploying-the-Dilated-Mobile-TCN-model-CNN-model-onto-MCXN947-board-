@@ -1,0 +1,1 @@
+../source/get_top_n.cpp:21:6:void MODEL_GetTopN(const uint8_t*, int, tensor_type_t, size_t, float, result_t*)	80	static

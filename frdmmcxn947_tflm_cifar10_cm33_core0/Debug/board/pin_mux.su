@@ -1,0 +1,4 @@
+D:\Biosignal\demo_model_tinyML\AI_model_DK_Deployment\IDE_mcxn947\frdmmcxn947_tflm_cifar10_cm33_core0\drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
+D:\Biosignal\demo_model_tinyML\AI_model_DK_Deployment\IDE_mcxn947\frdmmcxn947_tflm_cifar10_cm33_core0\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+../board/pin_mux.c:35:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:63:6:BOARD_InitPins	24	static

@@ -1,0 +1,14 @@
+../utilities/debug_console_lite/fsl_debug_console.c:73:10:DbgConsole_Init	48	static
+../utilities/debug_console_lite/fsl_debug_console.c:108:10:DbgConsole_Deinit	8	static
+../utilities/debug_console_lite/fsl_debug_console.c:122:10:DbgConsole_EnterLowpower	16	static
+../utilities/debug_console_lite/fsl_debug_console.c:133:10:DbgConsole_ExitLowpower	16	static
+../utilities/debug_console_lite/fsl_debug_console.c:147:5:DbgConsole_Printf	16	static
+../utilities/debug_console_lite/fsl_debug_console.c:160:5:DbgConsole_Vprintf	24	static
+../utilities/debug_console_lite/fsl_debug_console.c:176:5:DbgConsole_Putchar	16	static
+../utilities/debug_console_lite/fsl_debug_console.c:189:5:DbgConsole_Scanf	40	static
+../utilities/debug_console_lite/fsl_debug_console.c:248:5:DbgConsole_Getchar	16	static
+../utilities/debug_console_lite/fsl_debug_console.c:275:13:DbgConsole_PrintfPaddingCharacter	32	static
+../utilities/debug_console_lite/fsl_debug_console.c:298:16:DbgConsole_ConvertRadixNumToString	64	static
+../utilities/debug_console_lite/fsl_debug_console.c:566:12:DbgConsole_PrintfFormattedData	120	static
+../utilities/debug_console_lite/fsl_debug_console.c:1400:27:_write	24	static
+../utilities/debug_console_lite/fsl_debug_console.c:1427:27:_read	24	static
