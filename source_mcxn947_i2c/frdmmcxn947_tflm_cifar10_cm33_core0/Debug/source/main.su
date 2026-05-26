@@ -1,0 +1,13 @@
+../source/main.cpp:142:17:uint16_t checksum16(const uint8_t*, uint32_t)	24	static
+../source/main.cpp:154:17:uint16_t read_u16_le(const uint8_t*)	16	static
+../source/main.cpp:159:17:uint32_t read_u32_le(const uint8_t*)	16	static
+../source/main.cpp:167:13:void write_response(uint8_t, uint8_t, uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+../source/main.cpp:192:13:void reset_session()	16	static
+../source/main.cpp:221:13:void handle_start_sample(const uint8_t*, uint32_t)	32	static
+../source/main.cpp:260:13:void handle_write_chunk(const uint8_t*, uint32_t)	48	static
+../source/main.cpp:354:13:void handle_commit_sample()	24	static
+../source/main.cpp:413:13:void handle_received_packet(const uint8_t*, uint32_t)	32	static
+../source/main.cpp:470:13:void run_inference_from_i2c_buffer()	64	static
+../source/main.cpp:545:13:void I2C_SlaveCallback(LPI2C_Type*, lpi2c_slave_transfer_t*, void*)	40	static
+../source/main.cpp:614:13:void I2C_SlaveInit()	48	static
+../source/main.cpp:656:5:int main()	224	static

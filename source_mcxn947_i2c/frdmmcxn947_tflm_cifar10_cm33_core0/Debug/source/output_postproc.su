@@ -1,0 +1,2 @@
+../source/output_postproc.cpp:16:7:float MODEL_GetSigmoidScore(const uint8_t*, tensor_type_t)	32	static
+../source/output_postproc.cpp:47:10:status_t MODEL_ProcessOutput(const uint8_t*, const tensor_dims_t*, tensor_type_t, int)	48	static

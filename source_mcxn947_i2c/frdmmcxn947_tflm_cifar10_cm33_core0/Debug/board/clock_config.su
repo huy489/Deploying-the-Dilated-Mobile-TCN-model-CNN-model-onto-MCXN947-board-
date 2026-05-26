@@ -1,0 +1,7 @@
+D:\Biosignal\demo_model_tinyML\AI_model_DK_Deployment\ESP32_I2C_MCXN947\IDE_mcxn947\frdmmcxn947_tflm_cifar10_cm33_core0\drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
+../board/clock_config.c:47:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:83:6:BOARD_BootClockFRO12M	24	static
+../board/clock_config.c:151:6:BOARD_BootClockFROHF48M	24	static
+../board/clock_config.c:225:6:BOARD_BootClockFROHF144M	24	static
+../board/clock_config.c:304:6:BOARD_BootClockPLL150M	48	static
+../board/clock_config.c:397:6:BOARD_BootClockPLL100M	48	static

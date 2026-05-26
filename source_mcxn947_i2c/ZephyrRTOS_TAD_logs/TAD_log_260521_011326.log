@@ -1,0 +1,12 @@
+"Task Aware Debugger for GDB" version 25.6.0 (202506250844)
+Copyright 2016-2025 NXP
+==================================
+01:11:30.755 INFO: [ZephyrRTOS] .config file could not be read [D:\Biosignal\demo_model_tinyML\AI_model_DK_Deployment\ESP32_I2C_MCXN947\IDE_mcxn947\frdmmcxn947_tflm_cifar10_cm33_core0\Debug\.config (The system cannot find the file specified)]
+01:11:30.755 INFO: [TadModel] DSF session ID 15 has started.
+01:11:58.516 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+01:11:58.609 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+01:12:06.875 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+01:12:07.60 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+01:12:20.87 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+01:13:24.405 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+01:13:26.638 INFO: [TadModel] DSF session ID 15 has ended.
